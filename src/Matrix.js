@@ -21,9 +21,6 @@ export default class Matrix extends Component {
 }
 
 Matrix.defaultProps = {
-  title: "unknown",
-  IMDBRating: null,
-  genres: ['No Genre(s) Found'],
-  poster: "default"
-  
+  values: @,
+
 };
