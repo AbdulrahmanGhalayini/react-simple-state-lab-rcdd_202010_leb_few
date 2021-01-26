@@ -20,7 +20,7 @@ export default class Matrix extends Component {
   
 }
 
-Matrix.defaultProps = {
+Matrix.defaultProps= {
   values: #F00
 
 };
